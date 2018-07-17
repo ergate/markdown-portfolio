@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+#Ergate Lee
+##This is my homework of markdown 
+###Let me see

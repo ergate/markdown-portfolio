@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- [ ] 周一
+- [ ] 周二
+- [ ] 周三
